@@ -1,0 +1,9 @@
+# Dados brutos da pesquisa (baixar do site State of Data Brazil)
+*.csv
+*.parquet
+
+# Ambiente local
+.ipynb_checkpoints/
+__pycache__/
+.env
+.DS_Store
